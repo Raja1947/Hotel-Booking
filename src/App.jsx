@@ -6,7 +6,7 @@ import Home from './pages/Home';
 
 function App() {
   
-  const isOwnerPath = window.location.pathname.includes('/owner');
+  const isOwnerPath = window.location.pathname.includes('owner');
 
   return (
    <>
