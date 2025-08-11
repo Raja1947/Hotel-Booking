@@ -3,6 +3,7 @@ import './App.css'
 import Hero from './components/Hero/Hero';
 import Navbar from './components/Navbar/Navbar'
 import Home from './pages/Home';
+import Footer from './components/Footer/Footer';
 
 function App() {
   
@@ -18,6 +19,7 @@ function App() {
       </Routes>
       
     </div>
+    <Footer/>
     
    </div>
    
